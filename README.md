@@ -25,31 +25,34 @@
 
 ## ⚡ Projetos em Destaque
 
-### 🦐 AquaTrack
-> Sistema de gestão para fazendas de camarão — monitoramento de água, controle de estoque, custos e análise de dados.
+### <img src="https://raw.githubusercontent.com/Aqua-Track/aquatrack/main/src/main/resources/static/images/ico.png" height="34"/> <img src="https://raw.githubusercontent.com/Aqua-Track/aquatrack/main/src/main/resources/static/images/aquatrack_title_joined.svg" height="38"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> Sistema de gestão para fazendas de camarão — monitoramento de água, controle de estoque, custos e análise de dados.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 🔗 [Repositório](https://github.com/Aqua-Track) &nbsp;|&nbsp; 🌐 [Deploy](https://aquatrack.cloud)
 
 ---
 
-### 🏠 UniStay
+### <img src="https://raw.githubusercontent.com/italoptes/uni-stay/main/frontend/src/assets/logo.png" height="30"/> UniStay
+
 > Plataforma web para conectar estudantes a opções de moradia, com foco em usabilidade e disponibilidade em tempo real.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 🔗 [Repositório](https://github.com/italoptes/uni-stay) &nbsp;|&nbsp; 🌐 [Deploy](https://unistay.shop)
-
----
 
 ## 🛠️ Stack
 
