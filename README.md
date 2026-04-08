@@ -40,7 +40,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/italoptes/uni-stay/main/frontend/src/assets/logo.png" height="30"/> UniStay
+### <img src="https://raw.githubusercontent.com/italoptes/uni-stay/main/frontend/src/assets/logo.png" height="34"/> &nbsp;&nbsp;&nbsp;UniStay
 
 > Plataforma web para conectar estudantes a opções de moradia, com foco em usabilidade e disponibilidade em tempo real.
 
