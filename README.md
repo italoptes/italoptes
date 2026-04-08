@@ -34,7 +34,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-🔗 [Repositório](https://github.com/italoptes/aquatrack) &nbsp;|&nbsp; 🌐 [Deploy](https://seu-deploy-aqui.com)
+🔗 [Repositório](https://github.com/Aqua-Track) &nbsp;|&nbsp; 🌐 [Deploy](https://aquatrack.cloud)
 
 ---
 
@@ -47,7 +47,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-🔗 [Repositório](https://github.com/italoptes/unistay) &nbsp;|&nbsp; 🌐 [Deploy](https://seu-deploy-aqui.com)
+🔗 [Repositório](https://github.com/italoptes/uni-stay) &nbsp;|&nbsp; 🌐 [Deploy](https://unistay.shop)
 
 ---
 
@@ -82,8 +82,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=italoptes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoptes&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=italoptes&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
