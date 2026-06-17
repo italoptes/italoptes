@@ -25,7 +25,7 @@
 
 ## ⚡ Projetos em Destaque
 
-### <img src="https://raw.githubusercontent.com/Aqua-Track/aquatrack/main/src/main/resources/static/images/ico.png" height="34"/> <img src="https://raw.githubusercontent.com/Aqua-Track/aquatrack/main/src/main/resources/static/images/aquatrack_title_joined.svg" height="38"/>
+### <img src="https://aquatrack.cloud/images/favicon.png" height="34"/> <img src="https://raw.githubusercontent.com/Aqua-Track/aquatrack/main/src/main/resources/static/images/aquatrack_title_joined.svg" height="38"/>
 
 > Sistema de gestão para fazendas de camarão — monitoramento de água, controle de estoque, custos e análise de dados.
 <p>
